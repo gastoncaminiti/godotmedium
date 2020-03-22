@@ -5,6 +5,7 @@
 ## Publicaciones
 1. [Aproximación al enfoque de desarrollo en Godot Engine](https://medium.com/@gastoncaminiti/aproximaci%C3%B3n-al-enfoque-de-desarrollo-en-godot-engine-1e3894eca644)
 2. [Godot Engine Series: Cuerpos y Áreas](https://medium.com/@gastoncaminiti/godot-engine-series-cuerpos-y-%C3%A1reas-3d01ed1771a4)
+2. [Godot Engine Series: Movimiento 2D y Animaciones](https://medium.com/@gastoncaminiti/godot-engine-series-movimiento-2d-y-animaciones-684364847a91)
 
 <hr>
 <p align="center">
