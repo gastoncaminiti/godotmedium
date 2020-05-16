@@ -1,0 +1,25 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://escenas/Caja.tscn" type="PackedScene" id=1]
+[ext_resource path="res://escenas/Plataforma.tscn" type="PackedScene" id=2]
+[ext_resource path="res://escenas/Jugador.tscn" type="PackedScene" id=3]
+[ext_resource path="res://escenas/Sierra.tscn" type="PackedScene" id=4]
+
+[node name="Level" type="Node2D"]
+
+[node name="Plataforma" parent="." instance=ExtResource( 2 )]
+position = Vector2( 389, 267 )
+
+[node name="Plataforma2" parent="." instance=ExtResource( 2 )]
+position = Vector2( 718, 377 )
+
+[node name="Caja" parent="." instance=ExtResource( 1 )]
+position = Vector2( 491, 68 )
+
+[node name="Jugador" parent="." instance=ExtResource( 3 )]
+position = Vector2( 395, 134 )
+d_sierra = 30
+
+[node name="Sierra" parent="." instance=ExtResource( 4 )]
+position = Vector2( 822.194, 300.569 )
+[connection signal="body_entered" from="Sierra" to="Sierra" method="_on_Sierra_body_entered"]
