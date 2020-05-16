@@ -1,11 +1,12 @@
 # Godot Engine Series
 
-**Godot Engine Series** es una serie de artículos sobre desarrollo de videojuegos con [Godot Engine](https://godotengine.org/).
+**Godot Engine Series** es una serie de artículos sobre desarrollo de videojuegos con [Godot Engine](https://godotengine.org/) 3.2.
 
 ## Publicaciones
 1. [Aproximación al enfoque de desarrollo en Godot Engine](https://medium.com/@gastoncaminiti/aproximaci%C3%B3n-al-enfoque-de-desarrollo-en-godot-engine-1e3894eca644)
 2. [Godot Engine Series: Cuerpos y Áreas](https://medium.com/@gastoncaminiti/godot-engine-series-cuerpos-y-%C3%A1reas-3d01ed1771a4)
-2. [Godot Engine Series: Movimiento 2D y Animaciones](https://medium.com/@gastoncaminiti/godot-engine-series-movimiento-2d-y-animaciones-684364847a91)
+3. [Godot Engine Series: Movimiento 2D y Animaciones](https://medium.com/@gastoncaminiti/godot-engine-series-movimiento-2d-y-animaciones-684364847a91)
+4. [Godot Engine Series: Señales y Variables](https://medium.com/@gastoncaminiti/godot-engine-series-se%C3%B1ales-y-variables-aa59542e27bd)
 
 <hr>
 <p align="center">
