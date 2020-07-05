@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Godot Engine Series: Grupos e Items"
+config/name="Godot Engine Series: Señales y Variables"
 config/icon="res://icon.png"
 
 [rendering]

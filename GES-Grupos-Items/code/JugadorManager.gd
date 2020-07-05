@@ -9,6 +9,8 @@ var velocity = Vector2()
 export(int) var vida = 100
 export(int) var d_sierra = 25
 
+var mis_gemas = 0
+
 func get_input():
 	velocity.x = 0
 	var right = Input.is_action_pressed('ui_right')
